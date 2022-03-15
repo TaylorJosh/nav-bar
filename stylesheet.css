@@ -1,0 +1,20 @@
+.nav-items{
+background-color: black;
+color: white;
+font-size: 100%;
+padding: 0;
+margin: 0;
+display: flex;
+flex-direction: row;
+justify-content:space-between;
+align-items:center;
+}
+
+
+.nav-menu {font-family: sarif;
+    font-weight: bold;
+    font-size: 120%;
+}
+
+
+
